@@ -6,7 +6,7 @@
   <link href="http://yanminghu.online/atom.xml" rel="self"/>
   
   <link href="http://yanminghu.online/"/>
-  <updated>2022-10-16T03:26:33.254Z</updated>
+  <updated>2022-10-21T05:36:20.652Z</updated>
   <id>http://yanminghu.online/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1021</title>
+    <link href="http://yanminghu.online/2022/10/21/1021/"/>
+    <id>http://yanminghu.online/2022/10/21/1021/</id>
+    <published>2022-10-21T05:36:20.000Z</published>
+    <updated>2022-10-21T05:36:20.652Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>butterfly主题练习</title>
+    <link href="http://yanminghu.online/2022/10/21/20221021/"/>
+    <id>http://yanminghu.online/2022/10/21/20221021/</id>
+    <published>2022-10-21T05:34:34.000Z</published>
+    <updated>2022-10-21T05:50:39.615Z</updated>
+    
+    
+    <summary type="html">第一次使用butterfly主题，练习一下</summary>
+    
+    
+    
+    
+    <category term="butterfly" scheme="http://yanminghu.online/tags/butterfly/"/>
+    
+  </entry>
   
   <entry>
     <title>第三次C语言公开课</title>
